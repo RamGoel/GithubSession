@@ -10,7 +10,7 @@ class car:
 #     print("driver is :",var)
 
 
-car1=car(245)
+
 car2=car(678)
 car3=car(89)
 # d1=driver()
